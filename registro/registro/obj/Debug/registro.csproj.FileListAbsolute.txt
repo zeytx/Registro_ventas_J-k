@@ -1,0 +1,14 @@
+C:\Users\alvar\source\repos\registro\registro\bin\Debug\registro.exe.config
+C:\Users\alvar\source\repos\registro\registro\bin\Debug\registro.exe
+C:\Users\alvar\source\repos\registro\registro\bin\Debug\registro.pdb
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.Properties.Resources.resources
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.exe
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.pdb
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.contenedor.Registro.resources
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.ventana.visual.resources
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.ventana.modificar.resources
+C:\Users\alvar\source\repos\registro\registro\obj\Debug\registro.contenedo.resources
